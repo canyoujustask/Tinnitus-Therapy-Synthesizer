@@ -3,6 +3,9 @@
 ## Overview
 This is a sound therapy device designed to manage tinnitus by retraining the brain using various scientifically studied methods. It includes customizable soundscapes with options for traditional sound therapy, notch therapy, and acoustic coordinated reset neuromodulation.
 
+![Therapy Device Screenshot](https://github.com/canyoujustask/tts/blob/main/tts-screenshot.png)
+
+
 ## Requirements
 - **Max MSP** (version 8.6.3 or above)  
   [Download Max MSP](https://cycling74.com/downloads)
@@ -22,3 +25,6 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 
 ## Additional Resources
 For more details, see this [YouTube playlist](https://youtube.com/playlist?list=PLl2XP2UvUEv9PlbSi3mDUrFFxWOLFGoqm&si=P3hhBqQxCVj0VnPL).
+
+
+
