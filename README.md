@@ -24,9 +24,6 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 - Customizable soundscapes
 - Preset save/load for easy recall
 - Advanced methods like Notch Therapy and Acoustic Coordinated Reset Neuromodulation
-
-## Additional Resources
-For more details, see this [YouTube playlist](https://youtube.com/playlist?list=PLl2XP2UvUEv9PlbSi3mDUrFFxWOLFGoqm&si=P3hhBqQxCVj0VnPL).
-
+- See this [YouTube playlist](https://youtube.com/playlist?list=PLl2XP2UvUEv9PlbSi3mDUrFFxWOLFGoqm&si=P3hhBqQxCVj0VnPL) for all the features.
 
 
