@@ -18,7 +18,7 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 4. Adjust sound levels and effects using the faders and dials.
 5. For a more detailed walkthrough, see the provided [video](https://youtu.be/fi00e9kGqlw?si=PiVXo2wdjM54DKi-).
 6. (Optional) Press 'X' below 'Turn on While Coding' to activate keyboard interface.
-   Make sure you select your keyboard from the drop down menu.
+   Make sure you select your keyboard from the drop down menu. (Works only on OSX)
 
 ## Features
 - Customizable soundscapes
