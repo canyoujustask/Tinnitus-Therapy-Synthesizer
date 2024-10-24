@@ -1,7 +1,7 @@
 # Project TTS v0.2 - Sound Therapy Device for Tinnitus Management
 
 # TTS v0.2.2 Standalone for Windows
-## No Installation of Other 3rd Party Software Required  (osX coming soon)
+No Installation of 3rd Party Software (osX .app coming soon)
 [Download Here](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN)
 
 ## Overview
