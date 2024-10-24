@@ -1,8 +1,9 @@
 # Project TTS v0.2 - Sound Therapy Device for Tinnitus Management
 
 # TTS v0.2.2 Standalone for Windows
+[Download Here](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
 No Installation of 3rd Party Software (osX .app coming soon)
-[Download Here](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN)
+
 
 ## Overview
 This is a sound therapy device designed to manage tinnitus by retraining the brain using various scientifically studied methods. It includes customizable soundscapes with options for traditional sound therapy, notch therapy, and acoustic coordinated reset neuromodulation.
