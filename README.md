@@ -4,7 +4,6 @@
 - [Standalone Release Download](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
 - No Installation of 3rd party software (osX .app coming soon)
 
-
 ## Overview
 This is a sound therapy device designed to manage tinnitus by retraining the brain using various scientifically studied methods. It includes customizable soundscapes with options for traditional sound therapy, notch therapy, and acoustic coordinated reset neuromodulation.
 
@@ -16,7 +15,7 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 3. Adjust sound levels and effects using the faders and dials.
 4. For a more detailed walkthrough, see the provided [video](https://youtu.be/fi00e9kGqlw?si=PiVXo2wdjM54DKi-).
 
-## Requirements to Run the Source Code
+## Requirements to Run the Source Code (Alternative)
 - **Max MSP** (version 8.6.3 or above)  
   [Download Max MSP](https://cycling74.com/downloads)
 - (Optional) Additional nature sounds from the [American Tinnitus Association](https://www.ata.org/about-tinnitus/sound-therapy/)
