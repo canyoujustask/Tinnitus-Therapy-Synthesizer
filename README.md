@@ -5,8 +5,16 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 
 ![Therapy Device Screenshot](https://github.com/canyoujustask/tts/blob/main/tts-screenshot.png)
 
+# TTS v0.2.2 Standalone for Windows - No Installation of Other 3rd Party Software Required  (osX coming soon)
+[Download Here](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN)
 
-## Requirements
+## How to Use Standalone Version (Win)
+1. Run TTS_0.2.2 (Win) and find your tinnitus frequency using the built-in tool, then enter it.
+2. Select sound therapy methods (e.g., white noise, sine wave, Notch therapy) to mask tinnitus.
+3. Adjust sound levels and effects using the faders and dials.
+4. For a more detailed walkthrough, see the provided [video](https://youtu.be/fi00e9kGqlw?si=PiVXo2wdjM54DKi-).
+
+## Requirements to Run the Source Code
 - **Max MSP** (version 8.6.3 or above)  
   [Download Max MSP](https://cycling74.com/downloads)
 - (Optional) Additional nature sounds from the [American Tinnitus Association](https://www.ata.org/about-tinnitus/sound-therapy/)
