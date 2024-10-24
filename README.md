@@ -2,7 +2,7 @@
 
 # TTS v0.2.2 Standalone for Windows
 [Download Here](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
-No Installation of 3rd Party Software (osX .app coming soon)
+No Installation of 3rd party software (osX .app coming soon)
 
 
 ## Overview
