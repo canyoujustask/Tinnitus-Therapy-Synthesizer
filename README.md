@@ -5,7 +5,7 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 ![Therapy Device Screenshot](https://github.com/canyoujustask/tts/blob/main/tts-screenshot.png)
 
 # TTS v0.2.2 Standalone for Windows
-- [Standalone Release Download](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
+- [DOWNLOAD Here for WINDOWS](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
 - No Installation of 3rd party software (osX .app coming soon)
 
 ## How to Use Standalone Version (Win)
