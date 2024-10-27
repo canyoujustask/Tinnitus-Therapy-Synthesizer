@@ -14,7 +14,8 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 3. Adjust sound levels and effects using the faders and dials.
 4. For a more detailed walkthrough, see the provided [video](https://youtu.be/fi00e9kGqlw?si=PiVXo2wdjM54DKi-).
 
-## Requirements to Run (from the source)
+# TTS v0.2.2 (from the source)
+## Requirements to Run
 - **Max MSP** (version 8.6.3 or above)  
   [Download Max MSP](https://cycling74.com/downloads)
 - (Optional) Additional nature sounds from the [American Tinnitus Association](https://www.ata.org/about-tinnitus/sound-therapy/)
