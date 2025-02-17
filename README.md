@@ -6,7 +6,7 @@ This is a sound therapy device designed to manage tinnitus by retraining the bra
 
 # TTS v0.2.2 Standalone for Windows
 - [DOWNLOAD Here for WINDOWS](https://github.com/canyoujustask/Tinnitus-Therapy-Synthesizer/releases/tag/v0.2.2-Standalone-WIN) 
-- No Installation of 3rd party software (osX .app coming soon)
+- Install [Windows Redistributables](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) from offician Microsoft page, if this is your first time using these modules.
 
 ## How to Use Standalone Version (Win)
 1. Run TTS_0.2.2 (Win) and find your tinnitus frequency using the built-in tool, then enter it.
